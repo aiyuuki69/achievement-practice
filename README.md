@@ -1,2 +1,3 @@
-# achievement-practice
-My GitHub achievement practice
+# My first achievement
+
+I am learning GitHub!
